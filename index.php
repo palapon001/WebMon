@@ -18,11 +18,6 @@
     />
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-    <script> 
-      $(function(){
-        $("#includedContent").load("a.html"); 
-      });
-      </script> 
 
   </head>
   <body>
@@ -31,9 +26,7 @@
       <div class="app-header">
         <div class="app-header-left">
           <span class="app-icon"></span>
-          <p class="app-name">ชื่อโปรเจค
-            <div id="includedContent"></div>
-          </p>
+          <p class="app-name">ชื่อโปรเจค</p>
           <div class="search-wrapper">
             <input class="search-input" type="text" placeholder="ค้นหา" />
             <svg
