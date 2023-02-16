@@ -20,7 +20,6 @@
     </button>
 
     <button class="profile-btn"></button>
-    
     <div class="collapse" id="logout">  
         <a href="logout.php" class="btn btn-danger">ออกจากระบบ</a>
     </div>
