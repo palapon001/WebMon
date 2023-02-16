@@ -52,7 +52,7 @@ html, body {
 }
 
 body {
-  font-family: "DM Sans", sans-serif;
+  font-family: 'Kanit', sans-serif;
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -73,7 +73,7 @@ button, a {
   max-width: 1800px;
 }
 .app-container button, .app-container input, .app-container optgroup, .app-container select, .app-container textarea {
-  font-family: "DM Sans", sans-serif;
+  font-family: 'Kanit', sans-serif;
 }
 .app-content {
   display: flex;
