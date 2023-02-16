@@ -1,4 +1,4 @@
 <div class="projects-section-header">
-    <p>Projects</p>
-    <p class="time">December, 12</p>
+    <p>รายการ</p>
+    <p class="time">5 ผลลัพธ์</p>
 </div>

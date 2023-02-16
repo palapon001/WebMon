@@ -1,16 +1,12 @@
 <div class="projects-section-line">
           <div class="projects-status">
             <div class="item-status">
-              <span class="status-number">45</span>
-              <span class="status-type">In Progress</span>
+              <span class="status-number">0</span>
+              <span class="status-type">กำลังตรวจสอบ</span>
             </div>
             <div class="item-status">
-              <span class="status-number">24</span>
-              <span class="status-type">Upcoming</span>
-            </div>
-            <div class="item-status">
-              <span class="status-number">62</span>
-              <span class="status-type">Total Projects</span>
+              <span class="status-number">0</span>
+              <span class="status-type">ตรวจสอบเรียบร้อย</span>
             </div>
           </div>
           <div class="view-actions">

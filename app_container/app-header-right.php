@@ -14,6 +14,6 @@
     </button>
     <button class="profile-btn">
         <img src="https://cdn-icons-png.flaticon.com/512/3177/3177440.png" />
-        <span>User</span>
+        <span>ผู้ใช้</span>
     </button>
 </div>

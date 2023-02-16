@@ -12,7 +12,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet" />
-
+  <?php
+  include 'bootstrap.php';
+  include 'condb.php';
+  ?>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 
 </head>
@@ -32,4 +35,5 @@
   <!-- partial -->
   <script src="./script.js"></script>
 </body>
+
 </html>
