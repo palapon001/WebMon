@@ -7,15 +7,16 @@
         </svg>
     </button>
 
-    <button class="add-btn" title="Add New Project">
+    <button class="add-btn" type="button" title="Add New Project"  data-bs-toggle="modal" data-bs-target="#addbtn">
         <svg class="btn-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-plus">
             <line x1="12" y1="5" x2="12" y2="19" />
             <line x1="5" y1="12" x2="19" y2="12" />
         </svg>
     </button>
+    <?php include'app-header-add-btn-modal.php'; ?>
 
     <button class="profile-btn"  type="button" data-bs-toggle="collapse" data-bs-target="#logout" aria-expanded="false" aria-controls="logout">
-        <img src="https://cdn-icons-png.flaticon.com/512/3177/3177440.png" />
+        <img src="https://static.displate.com/857x1200/displate/2022-07-07/fb201c5aef2a8558a1eec3a095be6d49_1c1023275f02c2ee7bc146309a812775.jpg" />
         <span> ผู้ใช้: <?php echo $_SESSION["username"]; ?> </span>
     </button>
 
