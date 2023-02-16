@@ -1,6 +1,6 @@
 <div class="app-header-left">
 <!-- <h1>header left</h1> -->
-    <span class="app-icon"></span>
+    <img  src="https://cdn-icons-png.flaticon.com/512/9477/9477422.png" width="50" height="50" >
     <p class="app-name">ชื่อโปรเจค</p>
     <div class="search-wrapper">
         <input class="search-input" type="text" placeholder="ค้นหา" />
